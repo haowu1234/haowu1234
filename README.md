@@ -9,9 +9,9 @@
   </a>
 </p>
 
-I focus on **MaaS infrastructure platforms** and **intelligent semantic routing**.
+I focus on **AI Infrastructure** and **AI Networking** for production LLM systems.
 
-- Building production infrastructure for unified model access, governance, observability, and reliability.
-- Exploring semantic routing systems that connect LLM requests with the right models, policies, and execution paths.
+- Building MaaS infrastructure platforms for unified model access, governance, observability, and reliability.
+- Exploring intelligent semantic routing for model selection, policy control, and efficient LLM traffic orchestration.
 
 Open source: core committer of [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router); member of [Agentic Intelligence Lab](https://github.com/agentic-in) and [Semantic Router](https://github.com/semantic-router).
