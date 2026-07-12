@@ -9,10 +9,9 @@
   </a>
 </p>
 
-I build **LLM Gateway** and **intelligent semantic routing** infrastructure.
+I focus on **MaaS infrastructure platforms** and **intelligent semantic routing**.
 
-- Core committer of [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)
-- Member of [Agentic Intelligence Lab](https://github.com/agentic-in) and [Semantic Router](https://github.com/semantic-router)
-- Working on TokenHub / MaaS model service infrastructure at Tencent Cloud
+- Building production infrastructure for unified model access, governance, observability, and reliability.
+- Exploring semantic routing systems that connect LLM requests with the right models, policies, and execution paths.
 
-Focus areas: semantic routing, model selection, safety governance, semantic cache, feedback learning, Envoy, Gateway API, and Kubernetes.
+Open source: core committer of [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router); member of [Agentic Intelligence Lab](https://github.com/agentic-in) and [Semantic Router](https://github.com/semantic-router).
